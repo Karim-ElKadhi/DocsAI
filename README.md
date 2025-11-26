@@ -2,7 +2,6 @@
 
 **DocsAI** est un assistant conversationnel puissant et modulaire, inspiré des fonctionnalités d'analyse et d'interrogation de documents des **OpenAI Projects**. Il est conçu pour révolutionner la manière dont les utilisateurs interagissent avec leurs corpus documentaires.
 
----
 
 ## 💡 Description du Projet
 
