@@ -25,7 +25,7 @@ UPLOAD_FOLDER = "uploaded_docs"
 os.makedirs(UPLOAD_FOLDER, exist_ok=True)
 
 # Gemini setup
-genai.configure(api_key="AIzaSyDu9Wjy9ov_AYQn0eBtUZ_2sMJZ7TEFl4w")
+genai.configure(api_key="YOUR_KEY")
 
 GEMINI_MODEL = "gemini-2.5-flash"
 
